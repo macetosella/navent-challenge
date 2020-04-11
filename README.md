@@ -1,7 +1,7 @@
 # Navent-challenge
 # Ejercicio Técnico Navent
 
-## Resuesta al punto 2
+## Respuesta al punto 2
 
 ### Teniendo en cuenta que la tabla Pedido tenga muchos registros y columnas habría que:
 - Para los BLOB sería posible utilizar una tabla aparte que referencie a la tabla Pedidos y se maneje a nivel aplicación su obtención de manera lazy.
